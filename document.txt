@@ -1,0 +1,6 @@
+1. Install material theme icon in Visual studio
+2. prettier code formatter
+3. Install NodeJs from nodejs.org
+4. npx create-react-app "App name"
+5. cd "App name"
+6. npm start
