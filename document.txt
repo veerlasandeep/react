@@ -4,3 +4,4 @@
 4. npx create-react-app "App name"
 5. cd "App name"
 6. npm start
+7. For production build use "npm run build" command
